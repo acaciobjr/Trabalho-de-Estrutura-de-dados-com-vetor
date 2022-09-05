@@ -1,3 +1,4 @@
 # Trabalho-de-Estrutura-de-dados-com-vetor
-Esse algoritmo feito em Linguagem C tem a finalidade de introduzir o aluno ao estudo de estrutura de dados. 
-O programa 'popula' um vetor com dez números inteiros entre 0 e 100 e realiza ordens como: mostrar o elemento de maior valor, contabilizar quantos elementos são pares, qual o valor do somatório dos números, ordenar os elementos na forma inversa a sorteada originalmente e ordena de forma crescente todos os elementos.
+
+This algorithm made in C Language aims to introduce the student to the study of data structure.
+The program 'populates' a vector with ten integers between 0 and 100 and performs orders such as: showing the element with the highest value, counting how many elements are even, what is the value of the sum of the numbers, ordering the elements in the reverse way to the one originally drawn and sorts all elements in ascending order.
